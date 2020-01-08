@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Jackson Bolg"
+title                    : "Jackson Tech Bolg"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KIM DONG HYUN"
+name                     : "Donghyun Kim"
 description              : "Jackson Tech Bolg"
 url                      : "https://eastsunshinee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "KIM DONG HYUN"
+  name             : "Donghyun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "iOS Software Engineer."
   location         : "Seoul, Republic of Korea."
